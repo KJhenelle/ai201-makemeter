@@ -1,6 +1,6 @@
 # TakeMeter: Letterboxd Review Sorter
 
-[Watch Demo Video](Demovid.mov)
+[Watch Demo Video](demovid.mov)
 
 A natural language processing pipeline that categorizes Letterboxd movie reviews into user-intent buckets—**`actor_focused`**, **`plot_focused`**, and **`vibe_focused`**—benchmarking a zero-shot LLM baseline against a fine-tuned `distilbert-base-uncased` classifier.
 ## Project Overview & Motivation
