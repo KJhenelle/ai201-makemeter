@@ -1,0 +1,12 @@
+{
+  "baseline_accuracy": 0.7097,
+  "finetuned_accuracy": 0.4839,
+  "improvement": -0.2258,
+  "test_set_size": 31,
+  "label_map": {
+    "vibe_focused": 0,
+    "plot_focused": 1,
+    "actor_focused": 2
+  },
+  "model": "distilbert-base-uncased"
+}
